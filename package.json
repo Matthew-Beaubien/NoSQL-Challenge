@@ -1,0 +1,19 @@
+{
+    "name": "social-versal",
+    "version": "1.0.1",
+    "description": "Social Network Web Application",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "dependencies": {
+        "dayjs": "^1.11.10",
+        "express": "^4.17.1",
+        "mongoose": "^8.2.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.9"
+    }
+}
